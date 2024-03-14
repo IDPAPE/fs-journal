@@ -9,10 +9,10 @@
     > | ANSWER HERE |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > specificity is a score that is given to CSS rules in order to decide which one should ultimately apply to an element. The more specific the rule, the higher the specificity score. a rule targeting an element gives a specificity score of 1, a rule targeting a class gives a score of 10, and a rule targeting a specific id gives a score of 100. Example: there is a rule that tells all text in the header of a page to be a certain font, and a class that tells one element to be a different font.
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > It could lead to your code being filled with !important, since !important overrides #id tags and class rules, you can only modify the element with another !important tag, so all of your css rules will end up needing !important to actually change anything. 
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,16 +22,16 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > 'h1' is a selector, 'color' is a property, 'rgba(255, 210, 33, .75)' is a value.
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > A visually pleasing page makes an immediate positive impression on visitors of a site, and makes them more likely to view more of the page.good design can make the most important things stand out on a page through text formatting such as weight, color, underlines. When making buttons they should pop out from the background to draw people's attention to them. Sometimes with buttons, they really should be a specific color, for example, making a window with a red 'confirm' and green 'cancel' button would be an easy way to make a lot of people push the wrong button.
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > Wireframing is important firstly because if helps with planning out how a webpage will ultimately look. Wireframing also is good for recieving user feedback before lots of code is written. A wireframe can also expose issues with the layout of a page and inspire new ideas
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > I think wireframes ultimately save time because if you waited until your page was fully completed to decide what needs to be changed or removed, you would end up wasting a lot of time coding on things that never make it to the final version.
 
 10. Define the display `:flex property:`
     > | ANSWER HERE |
