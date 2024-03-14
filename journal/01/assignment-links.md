@@ -2,5 +2,5 @@
 
 * **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
 * **[CoolSite](https://idpape.github.io/coolsite/)**
-* **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
+* **[Clone-Site](https://idpape.github.io/clone-site/)**
 * **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
