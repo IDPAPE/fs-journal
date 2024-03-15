@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > var, const, let
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > A function is a subprogram that does a specific task and can be called over and over again throughout a program, A function will always return a value, undefined if nothing else.
 
 03. What are the `SOLID` principles?
 
