@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
+* **[ScoreBoard](https://idpape.github.io/scoreboard/)**
 * **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
