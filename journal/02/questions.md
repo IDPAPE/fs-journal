@@ -9,7 +9,11 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > S — Single responsibility principle: Classes should have only one job.
+      O — Open closed principle: Objects should be open for extension but closed for modification, This means that you should be able to extend the functionality of a function without modifying the function's code. How I understand this is that rather than rewriting your function to add functionality, your functions should be built in a way that you can create a new function that can be call or be called by your old function to add functionality
+      L — Liskov substitution principle
+      I — Interface segregation principle
+      D — Dependency Inversion principle
 
 04. Given this array: How could you remove the `pineapple`?
 
