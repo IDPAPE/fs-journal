@@ -2,5 +2,5 @@
 
 * **[ScoreBoard](https://idpape.github.io/scoreboard/)**
 * **[Ice Cream Parlor](https://idpape.github.io/icecreamParlor/)**
-* **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
+* **[Sports Bets](https://idpape.github.io/sportsBet/)**
 * **[Repo](https://github.com/{{ghname}}/<ASSIGNMENT_REPO>)**
