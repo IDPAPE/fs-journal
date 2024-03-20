@@ -11,8 +11,8 @@
 
     > S — Single responsibility principle: Classes should have only one job.
       O — Open closed principle: Objects should be open for extension but closed for modification, This means that you should be able to extend the functionality of a function without modifying the function's code. How I understand this is that rather than rewriting your function to add functionality, your functions should be built in a way that you can create a new function that can be call or be called by your old function to add functionality
-      L — Liskov substitution principle
-      I — Interface segregation principle
+      L — Liskov substitution principle: This means that every subclass or derived class should be substitutable for their base or parent class. This one doesn't really mean anything to me yet, I think it is trying to say that if you have functions that are more specific versions of a more broad function, that anywhere you use the specific versions, your more broad version should be able to be slotted in instead without causing errors
+      I — Interface segregation principle: A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use. To us, I think this
       D — Dependency Inversion principle
 
 04. Given this array: How could you remove the `pineapple`?
