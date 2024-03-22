@@ -21,7 +21,8 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > delete fruit[2]: does not change array length, fruit[2] will be left undefined
+      could also do let removedFruits = fruit.splice(2,2), this would remove pineapple, change the length of fruit[] and store pineapple in removedFruits
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -38,24 +39,30 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > you.friends.push[them];
+      them.friends.push[you];
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > if (x == y)
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > parameters are defined in the function definition, used in writing the function. Arguments are the variable that you pass into the function when you call it.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > you could use the built in chrome dev tools debugger. With this you can create breakpoints where your code will pause until you tell it to continue. While your code is paused you can inspect the value of whatever variable you want to ensure is correct.
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    >  A primitive value could be a number, string, boolean, null, or undefined; essentially anything that a variable can be set to, and each can only store one at a time.
+      a reference value could be an object or array. Objects store a set of values or arrays under a name called key. These objects can be primitives or other objects/arrays: `objectName.value`. An array is an ordered list of variables or objects which can be accessed using the name of the array and a numbered location in the array: `arrayName[position]`. (the 1st position of the array is actually numbered 0, so a 5 long array would have 5 positions, 0-4)
+      note- from googling it seems that you can store arrays in arrays and objects in objects but there is almost always a better way to approach whatever problem you are trying to solve.
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > for(let i = -100; i <= 100; i++)
+    {
+        console.log(i)
+    }
